@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "thomas.coppee.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "micromagnetism"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
